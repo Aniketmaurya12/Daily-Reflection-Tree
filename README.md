@@ -20,6 +20,6 @@ Guardrails:
 
 How to Run:
 
-python decision_tree.py
+python Part A - daily_reflection_tree.py
 
-python agent.py
+python Part B- Ai Agent_main.py
